@@ -1,0 +1,58 @@
+armors:
+  - type: SECTOID_ARMOR0
+    spriteInv: sectoidInventoryImage
+  - type: FLOATER_ARMOR0
+    spriteInv: floaterInventoryImage
+  - type: FLOATER_ARMOR1
+    spriteInv: floaterInventoryImage
+  - type: FLOATER_ARMOR2
+    spriteInv: floaterInventoryImage
+  - type: SNAKEMAN_ARMOR0
+    spriteInv: snakemanInventoryImage
+  - type: SNAKEMAN_ARMOR1
+    spriteInv: snakemanInventoryImage
+  - type: SNAKEMAN_ARMOR2
+    spriteInv: snakemanInventoryImage
+  - type: MUTON_ARMOR0
+    spriteInv: mutonInventoryImage
+  - type: MUTON_ARMOR1
+    spriteInv: mutonInventoryImage
+  - type: MUTON_ARMOR2
+    spriteInv: mutonInventoryImage
+  - type: ETHEREAL_ARMOR0
+    spriteInv: etherealInventoryImage
+  - type: ETHEREAL_ARMOR1
+    spriteInv: etherealInventoryImage
+  - type: ETHEREAL_ARMOR2
+    spriteInv: etherealInventoryImage
+extraSprites:
+  - type: sectoidInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/AlienInventory/sectoid.png
+  - type: mutonInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/AlienInventory/muton.png
+  - type: snakemanInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/AlienInventory/snakeman.png
+  - type: etherealInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/AlienInventory/ethereal.png
+  - type: floaterInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/AlienInventory/floater.png
